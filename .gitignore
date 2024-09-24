@@ -1,0 +1,11 @@
+visualize/*
+checkpoints/*
+performance/*
+backbones/*
+*backbones/*
+__pycache__/
+.vscode/*
+*.ipynb
+build_results.py
+.DS_Store
+architectures/dinomaly/backbones/
